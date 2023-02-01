@@ -1,5 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C45DF7&lines=Hello+everyone!+I'm+B%C3%BC%C5%9Fra;I'm+a+web+developer+)](https://git.io/typing-svg)
-<br><br>
+- Hello world! I'm a FullStack Developer. I'm working to create the best version of me ✨
+
+
+
+- 🤔 I'm interested in business analysis nowadays
+
+
+
 
 #### _Technical Skills_
 
@@ -16,12 +22,13 @@
 
 <!--
 **sbozen/sbozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!+;I'm+a+fullstack+developer)](https://git.io/typing-svg)
+<br><br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
